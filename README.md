@@ -1,4 +1,5 @@
 # student-registration-
+#student-register-
 Student Registration Form Project
 AWS EC2 + Nginx + PHP + MariaDB Deployment
 Project Overview
